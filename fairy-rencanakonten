@@ -3,6 +3,8 @@ rencana konten fairy :
 membuat video tentang php
 -dasar
 -mvc
+  ^laravel
 video template
 -html
+  ^css
 -fundamental
